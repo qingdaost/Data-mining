@@ -1,0 +1,3 @@
+spacemining.py is for COMP422 Project 1 Task 2.1: Mining Space Images, programmed by Python.
+Run it directly in any Python IDE.
+The resulting images are named as map.jpg(3*3 smooth)£¬map.jpg1(5*5 smooth) and map50.jpg(3*3 smooth and threshold by 50), map100.jpg(3*3 smooth and threshold by 100), map200.jpg(3*3 smooth and threshold by 200), map200ws.jpg(no smooth and threshold by 200) and map200bm.jpg(5*5 smooth and threshold by 200).
